@@ -11,8 +11,8 @@ h1{
     text-align: center;
     align-items: center;
 }
-p{
-    text-align: center;
+.text{
+    text-align: flex;
     color: #3D0814;
     font-size: large;
 }
