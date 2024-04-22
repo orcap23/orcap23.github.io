@@ -6,13 +6,12 @@ h1{
     text-align: center;
     color: #3D0814;
 }
-#coffeeImg{
-    max-width: 400px;
-    max-height: 400px; 
-    width: 100%;
-    height: 100%;
-    margin: auto;
-
+#content{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2em;
+    padding-bottom: 2em;
 }
 .center{
     display: flex;
