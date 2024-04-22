@@ -7,23 +7,10 @@ h1{
     color: #3D0814;
 }
 
-#coffee{
-    width: 664px;
-    height: 200px;
+.content{
+    color: #3D0814;
+}
+footer{
+    justify-content: center;
 }
 
-.left{
-    display: block;
-    float: left;
-}
-.right{
-    text-align: right;
-    color: #3D0814;
-    font-size: large;
-}
-p.footer{
-    text-align: center;
-    color: #3D0814;
-    font-size: 30px;
-
-}
