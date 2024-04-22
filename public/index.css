@@ -12,12 +12,12 @@ p{
     color: black;
     font-size: large;
 }
-#footie{
+p.footer{
     text-align: center;
     color: black;
+    font-size: small;
 
 }
 .button{
     align-items: center;
-
 }
