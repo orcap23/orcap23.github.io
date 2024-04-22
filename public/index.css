@@ -4,20 +4,19 @@ body {
 
 h1{
     text-align: center;
-    color: black;
+    color: #3D0814;
 }
-
+button{
+    align-items: center;
+}
 p{
     text-align: center;
-    color: black;
+    color: #3D0814;
     font-size: large;
 }
 p.footer{
     text-align: center;
-    color: black;
+    color: #3D0814;
     font-size: small;
 
-}
-button{
-    align-items: center;
 }
