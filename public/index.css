@@ -6,7 +6,9 @@ h1{
     text-align: center;
     color: #3D0814;
 }
-button{
+.center{
+    display: flex;
+    text-align: center;
     align-items: center;
 }
 p{
