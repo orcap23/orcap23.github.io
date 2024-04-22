@@ -11,6 +11,10 @@ h1{
     text-align: center;
     align-items: center;
 }
+.left{
+    display: block;
+    float: left;
+}
 .text{
     text-align: flex;
     color: #3D0814;
