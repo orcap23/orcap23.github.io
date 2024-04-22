@@ -1,5 +1,5 @@
 body {
-    background-color: #80bfff;
+    background-color: #7CB4B8;
 }
 
 h1{
@@ -15,5 +15,9 @@ p{
 #footie{
     text-align: center;
     color: black;
+
+}
+.button{
+    align-items: center;
 
 }
