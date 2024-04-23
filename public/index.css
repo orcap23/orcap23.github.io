@@ -7,7 +7,12 @@ h1{
     color: #3D0814;
 }
 
-p{
+.content{
     text-align: center;
+    justify-content: center;
     color: #3D0814;
+}
+footer{
+    justify-content: center;
+    text-align: center;
 }
