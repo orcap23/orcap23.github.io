@@ -6,9 +6,31 @@ h1{
     text-align: center;
     color: #3D0814;
 }
-
-.content{
+#site-head{
     text-align: center;
+    padding-bottom: 6px;
+}
+#port{
+    min-width: 200px;
+    max-width: 15%;
+    max-height: 15%;
+    padding: 4px;
+}
+.main{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content{
+    flex-grow: 2;
+    flex-shrink: 2;
+    flex-basis: 60%;
+    font-size: 25px;
     color: #3D0814;
 }
 footer{
