@@ -1,0 +1,4 @@
+# literally do not need these in the public workspace thank u
+vendor/
+.jeykll-cache/
+.DS_Store/
