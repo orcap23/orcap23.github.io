@@ -2,13 +2,20 @@ body {
     background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%); 
 }
-
-h1{
+.textContent{
     text-align: center;
     color: #3D0814;
 }
+.blocks{
+    display: inline-block;
+}
+.sidebar{
+    display: block;
+    width: 25%;
+}
 figcaption{
     color: #3d0814;
+    flex-basis: 25%;
 }
 a {
     color: #833ab4;
@@ -32,6 +39,7 @@ a {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    
 }
 .content{
     flex-grow: 2;
@@ -39,7 +47,4 @@ a {
     flex-basis: 60%;
     font-size: 25px;
     color: #3D0814;
-}
-footer{
-    text-align: center;
 }
